@@ -13,6 +13,7 @@ function App() {
 				{
 					name: uName,
 					age: uAge,
+					id: Math.random().toString(),
 				},
 			];
 		});
