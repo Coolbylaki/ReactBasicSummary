@@ -8,4 +8,4 @@
 + Components
 + Dynamic data rendering
 
-From here I'll move on to portals, refs and fragments.
+From here I'll move on to portals, refs, fragments and forward with hooks: useEffect, useReducer, useRef, useContext.
